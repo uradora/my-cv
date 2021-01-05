@@ -12,7 +12,7 @@ export default class Navbar extends Component {
                                 CV
                             </Link>
                             <Link to="/" data-target="side-nav" className="sidenav-trigger">
-                                <i className="material-icons">menu</i>
+                                <i className="material-icons"></i>
                             </Link>
                             <ul className="right hide-on-ned-and-down">
                                 <li>
